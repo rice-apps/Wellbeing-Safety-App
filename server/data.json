@@ -1,0 +1,494 @@
+{
+    "result": [
+        {
+            "latitude": 29.7165527372188,
+            "timestamp": "2017-10-27T10:07:57",
+            "longitude": -95.397638064739,
+            "BlueButtonRequest": null,
+            "case_id": 4
+        },
+        {
+            "latitude": 29.7165527372188,
+            "timestamp": "2017-10-27T10:07:56",
+            "longitude": -95.397638064739,
+            "BlueButtonRequest": null,
+            "case_id": 4
+        },
+        {
+            "latitude": 29.7165527372188,
+            "timestamp": "2017-10-27T10:07:57",
+            "longitude": -95.397638064739,
+            "BlueButtonRequest": null,
+            "case_id": 4
+        },
+        {
+            "latitude": 29.7166174394045,
+            "timestamp": "2017-10-27T10:10:41",
+            "longitude": -95.3976777805374,
+            "BlueButtonRequest": null,
+            "case_id": 7
+        },
+        {
+            "latitude": 29.7166174394045,
+            "timestamp": "2017-10-27T10:10:38",
+            "longitude": -95.3976777805374,
+            "BlueButtonRequest": null,
+            "case_id": 7
+        },
+        {
+            "latitude": 29.7166174394045,
+            "timestamp": "2017-10-27T10:10:41",
+            "longitude": -95.3976777805374,
+            "BlueButtonRequest": null,
+            "case_id": 7
+        },
+        {
+            "latitude": 29.7165419197436,
+            "timestamp": "2017-10-27T10:23:13",
+            "longitude": -95.3976506226969,
+            "BlueButtonRequest": null,
+            "case_id": 10
+        },
+        {
+            "latitude": 29.7165419197436,
+            "timestamp": "2017-10-27T10:23:13",
+            "longitude": -95.3976506226969,
+            "BlueButtonRequest": null,
+            "case_id": 10
+        },
+        {
+            "latitude": 29.7161519857845,
+            "timestamp": "2017-10-27T10:23:23",
+            "longitude": -95.3968596304847,
+            "BlueButtonRequest": null,
+            "case_id": 10
+        },
+        {
+            "latitude": 29.7165624854866,
+            "timestamp": "2017-10-27T10:23:25",
+            "longitude": -95.3976493476881,
+            "BlueButtonRequest": null,
+            "case_id": 10
+        },
+        {
+            "latitude": 29.7163978923395,
+            "timestamp": "2017-10-27T10:23:34",
+            "longitude": -95.3974375473858,
+            "BlueButtonRequest": null,
+            "case_id": 10
+        },
+        {
+            "latitude": 29.7165305466995,
+            "timestamp": "2017-10-27T10:42:44",
+            "longitude": -95.39753952056,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7165305466995,
+            "timestamp": "2017-10-27T10:42:38",
+            "longitude": -95.39753952056,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7165238201232,
+            "timestamp": "2017-10-27T10:42:47",
+            "longitude": -95.3976088692721,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7165305466995,
+            "timestamp": "2017-10-27T10:42:38",
+            "longitude": -95.39753952056,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7165637676119,
+            "timestamp": "2017-10-27T10:42:54",
+            "longitude": -95.397567856219,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7164535551213,
+            "timestamp": "2017-10-27T10:43:40",
+            "longitude": -95.3973559546301,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7163409381706,
+            "timestamp": "2017-10-27T10:43:40",
+            "longitude": -95.3971461618903,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7162311687834,
+            "timestamp": "2017-10-27T10:43:40",
+            "longitude": -95.3969416738411,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7165811709874,
+            "timestamp": "2017-10-27T10:43:44",
+            "longitude": -95.3975891628049,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7166559647825,
+            "timestamp": "2017-10-27T10:44:04",
+            "longitude": -95.3978179134805,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7168637581466,
+            "timestamp": "2017-10-27T10:44:06",
+            "longitude": -95.3981432667516,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7170645105147,
+            "timestamp": "2017-10-27T10:44:06",
+            "longitude": -95.3984327464585,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7172616015298,
+            "timestamp": "2017-10-27T10:44:06",
+            "longitude": -95.3987167350672,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.7165093275146,
+            "timestamp": "2017-10-27T10:44:09",
+            "longitude": -95.397522236422,
+            "BlueButtonRequest": null,
+            "case_id": 15
+        },
+        {
+            "latitude": 29.717923776999,
+            "timestamp": "2017-10-27T02:13:42",
+            "longitude": -95.4023935802364,
+            "BlueButtonRequest": null,
+            "case_id": 29
+        },
+        {
+            "latitude": 29.717923776999,
+            "timestamp": "2017-10-27T02:13:41",
+            "longitude": -95.4023935802364,
+            "BlueButtonRequest": null,
+            "case_id": 29
+        },
+        {
+            "latitude": 29.717923776999,
+            "timestamp": "2017-10-27T02:13:42",
+            "longitude": -95.4023935802364,
+            "BlueButtonRequest": null,
+            "case_id": 29
+        },
+        {
+            "latitude": 29.7179317474642,
+            "timestamp": "2017-10-27T02:13:46",
+            "longitude": -95.4022034817332,
+            "BlueButtonRequest": null,
+            "case_id": 29
+        },
+        {
+            "latitude": 29.7177156111759,
+            "timestamp": "2017-11-01T10:25:58",
+            "longitude": -95.3981000353027,
+            "BlueButtonRequest": null,
+            "case_id": 33
+        },
+        {
+            "latitude": 29.7177156111759,
+            "timestamp": "2017-11-01T10:25:57",
+            "longitude": -95.3981000353027,
+            "BlueButtonRequest": null,
+            "case_id": 33
+        },
+        {
+            "latitude": 29.7177156111759,
+            "timestamp": "2017-11-01T10:25:58",
+            "longitude": -95.3981000353027,
+            "BlueButtonRequest": null,
+            "case_id": 33
+        },
+        {
+            "latitude": 29.7176880501835,
+            "timestamp": "2017-11-01T10:26:09",
+            "longitude": -95.3981228503457,
+            "BlueButtonRequest": null,
+            "case_id": 36
+        },
+        {
+            "latitude": 29.7176880501835,
+            "timestamp": "2017-11-01T10:26:09",
+            "longitude": -95.3981228503457,
+            "BlueButtonRequest": null,
+            "case_id": 36
+        },
+        {
+            "latitude": 29.7161790238461,
+            "timestamp": "2017-11-01T10:26:56",
+            "longitude": -95.3998831190813,
+            "BlueButtonRequest": null,
+            "case_id": 36
+        },
+        {
+            "latitude": 29.7156441012251,
+            "timestamp": "2017-11-01T10:26:56",
+            "longitude": -95.4003430025997,
+            "BlueButtonRequest": null,
+            "case_id": 36
+        },
+        {
+            "latitude": 29.7153766713287,
+            "timestamp": "2017-11-01T10:26:56",
+            "longitude": -95.4005728583966,
+            "BlueButtonRequest": null,
+            "case_id": 36
+        },
+        {
+            "latitude": 29.7176696010165,
+            "timestamp": "2017-11-01T10:27:05",
+            "longitude": -95.3981462855461,
+            "BlueButtonRequest": null,
+            "case_id": 36
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:12",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 42
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:01:58",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 42
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:12",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 42
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:35",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 45
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:12",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 45
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:35",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 45
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:43",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 48
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:35",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 48
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:43",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 48
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:50",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 51
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:43",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 51
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-01-13T03:02:50",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 51
+        },
+        {
+            "latitude": 29.7166462530283,
+            "timestamp": "2018-01-21T02:17:36",
+            "longitude": -95.3976426443403,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.7166462530283,
+            "timestamp": "2018-01-21T02:17:36",
+            "longitude": -95.3976426443403,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.7166088595688,
+            "timestamp": "2018-01-21T02:17:36",
+            "longitude": -95.3975913676767,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.7166462530283,
+            "timestamp": "2018-01-21T02:17:33",
+            "longitude": -95.3976426443403,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.7165301212076,
+            "timestamp": "2018-01-21T02:17:45",
+            "longitude": -95.3975144001231,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.716613096387,
+            "timestamp": "2018-01-21T02:18:13",
+            "longitude": -95.3975941574811,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.7166736625518,
+            "timestamp": "2018-01-21T02:18:28",
+            "longitude": -95.3976692468202,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.7166324715636,
+            "timestamp": "2018-01-21T02:18:37",
+            "longitude": -95.3976137296744,
+            "BlueButtonRequest": null,
+            "case_id": 54
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-02-03T04:24:49",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 62
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-02-03T04:24:25",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 62
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-02-03T04:24:49",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 62
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-02-03T04:25:23",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 65
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-02-03T04:25:22",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 65
+        },
+        {
+            "latitude": 29.719665,
+            "timestamp": "2018-02-03T04:25:23",
+            "longitude": -95.402233,
+            "BlueButtonRequest": null,
+            "case_id": 65
+        },
+        {
+            "latitude": 29.7165241363214,
+            "timestamp": "2018-05-10T09:18:57",
+            "longitude": -95.3975150328447,
+            "BlueButtonRequest": null,
+            "case_id": 68
+        },
+        {
+            "latitude": 29.7165241363214,
+            "timestamp": "2018-05-10T09:19:00",
+            "longitude": -95.3975150328447,
+            "BlueButtonRequest": null,
+            "case_id": 68
+        },
+        {
+            "latitude": 29.7164599944427,
+            "timestamp": "2018-05-10T09:19:14",
+            "longitude": -95.3974843775084,
+            "BlueButtonRequest": null,
+            "case_id": 70
+        },
+        {
+            "latitude": 29.7163709482871,
+            "timestamp": "2018-05-10T09:20:22",
+            "longitude": -95.3974031201986,
+            "BlueButtonRequest": null,
+            "case_id": 70
+        },
+        {
+            "latitude": 29.7164122897192,
+            "timestamp": "2018-05-10T09:20:30",
+            "longitude": -95.3974593931636,
+            "BlueButtonRequest": null,
+            "case_id": 70
+        },
+        {
+            "latitude": 29.716524811515,
+            "timestamp": "2018-05-10T09:20:49",
+            "longitude": -95.3975141198598,
+            "BlueButtonRequest": null,
+            "case_id": 70
+        }
+    ]
+}
